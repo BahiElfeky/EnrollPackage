@@ -9,7 +9,7 @@ let package = Package(
         // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
             name: "EnrollPackage",
-            targets: ["EnrollPackage"]),
+            targets: ["EnrollPackage", "EnrollFramework"]),
     ],
     dependencies: [
         .package(url: "https://github.com/innovatrics/dot-ios-sdk-spm",  exact: "7.5.1"),
