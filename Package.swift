@@ -5,20 +5,48 @@ import PackageDescription
 
 let package = Package(
     name: "EnrollPackage",
+    platforms: [
+        .iOS(.v13)
+    ],
     products: [
-        // Products define the executables and libraries a package produces, making them visible to other packages.
+        // Make EnrollFramework directly available as a product
+        .library(
+            name: "EnrollFramework",
+            targets: ["EnrollFramework"]
+        ),
+        // Optionally, also expose the wrapper if needed
         .library(
             name: "EnrollPackage",
-            targets: ["EnrollPackage", "EnrollFramework"]),
+            targets: ["EnrollPackage"]
+        )
     ],
     dependencies: [
-        .package(url: "https://github.com/innovatrics/dot-ios-sdk-spm",  exact: "7.5.1"),
+        // Dependency on dot-ios-sdk-spm
+        .package(
+            url: "https://github.com/innovatrics/dot-ios-sdk-spm",
+            exact: "7.5.1"
+        )
     ],
     targets: [
-        // Targets are the basic building blocks of a package, defining a module or a test suite.
-        // Targets can depend on other targets in this package and products from dependencies.
-        .binaryTarget(name: "EnrollFramework", path: "artifacts/EnrollFramework.xcframework"),
+        // Binary target for EnrollFramework
+        .binaryTarget(
+            name: "EnrollFramework",
+            path: "artifacts/EnrollFramework.xcframework"
+        ),
+        // Optional: Wrapper target for additional functionality
         .target(
-            name: "EnrollPackage", dependencies: ["EnrollFramework", .product(name: "DotDocument", package: "dot-ios-sdk-spm"), .product(name: "DotFaceVerification", package: "dot-ios-sdk-spm")]),
+            name: "EnrollPackage",
+            dependencies: [
+                "EnrollFramework",
+                .product(name: "DotDocument", package: "dot-ios-sdk-spm"),
+                .product(name: "DotFaceVerification", package: "dot-ios-sdk-spm")
+            ],
+            path: "Sources/EnrollPackage"
+        ),
+        .testTarget(
+            name: "EnrollPackageTests",
+            dependencies: ["EnrollPackage"]
+        )
     ]
 )
+
