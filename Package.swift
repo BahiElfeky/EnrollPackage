@@ -9,37 +9,37 @@ let package = Package(
         .iOS(.v13)
     ],
     products: [
-        // Make EnrollFramework directly available as a product
-        .library(
-            name: "EnrollFramework",
-            targets: ["EnrollFramework"]
-        ),
-        // Optionally, also expose the wrapper if needed
         .library(
             name: "EnrollPackage",
             targets: ["EnrollPackage"]
         )
     ],
     dependencies: [
-        // Dependency on dot-ios-sdk-spm
         .package(
             url: "https://github.com/innovatrics/dot-ios-sdk-spm",
             exact: "7.5.1"
         )
     ],
     targets: [
-        // Binary target for EnrollFramework
         .binaryTarget(
             name: "EnrollFramework",
             path: "artifacts/EnrollFramework.xcframework"
         ),
-        // Optional: Wrapper target for additional functionality
         .target(
             name: "EnrollPackage",
             dependencies: [
                 "EnrollFramework",
+                // Include all products from dot-ios-sdk-spm
+                .product(name: "DotFaceLite", package: "dot-ios-sdk-spm"),
                 .product(name: "DotDocument", package: "dot-ios-sdk-spm"),
-                .product(name: "DotFaceVerification", package: "dot-ios-sdk-spm")
+                .product(name: "DotNfc", package: "dot-ios-sdk-spm"),
+                .product(name: "DotFaceVerification", package: "dot-ios-sdk-spm"),
+                .product(name: "DotFaceEyeGazeLiveness", package: "dot-ios-sdk-spm"),
+                .product(name: "DotFaceExpressionNeutral", package: "dot-ios-sdk-spm"),
+                .product(name: "DotFaceDetectionFast", package: "dot-ios-sdk-spm"),
+                .product(name: "DotFaceBackgroundUniformity", package: "dot-ios-sdk-spm"),
+                .product(name: "DotFaceDetectionBalanced", package: "dot-ios-sdk-spm"),
+                .product(name: "DotFacePassiveLiveness", package: "dot-ios-sdk-spm")
             ],
             path: "Sources/EnrollPackage"
         ),
@@ -49,4 +49,3 @@ let package = Package(
         )
     ]
 )
-
