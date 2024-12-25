@@ -6,27 +6,19 @@
 	<dict>
 		<key>AMLCheckViewController.nib</key>
 		<data>
-		R10DZ2GxkZR8+KFTca/ADDWyQJo=
+		pZ9mc6s0RsG7ZN3zRct9bdKyb9k=
 		</data>
 		<key>Assets.car</key>
 		<data>
-		ZY1SDpuhCRTWuoywUk61dkKdS+4=
+		u7IQ3JetANTplHbuRGKx5A5eKaM=
 		</data>
 		<key>Cairo-Regular.ttf</key>
 		<data>
 		xAzWnYVNEsgYswyGZopFMFtTHF0=
 		</data>
-		<key>CantLoginStoryBoard.storyboardc/CantLoginViewController.nib</key>
+		<key>CustomEnrollImage.nib</key>
 		<data>
-		Wc+SEf+kizuMawjJEewNiVmzefU=
-		</data>
-		<key>CantLoginStoryBoard.storyboardc/Info.plist</key>
-		<data>
-		sDr+1P3vkVLVkKXuSfxK3aethlA=
-		</data>
-		<key>CantLoginStoryBoard.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
-		<data>
-		qPe05ohPLjCkJ4HRKWfhVF4T4DQ=
+		16unpXwVwiBSQc9L2m954suIo8Q=
 		</data>
 		<key>CustomHeader.nib</key>
 		<data>
@@ -42,11 +34,11 @@
 		</data>
 		<key>DeviceLocationViewController.nib</key>
 		<data>
-		HFdeD7qKzQLLFgSdyzkMDlKSthc=
+		OeIa/5kX6SV3q3YOzLEVoQjM0NQ=
 		</data>
 		<key>ElectronicSignatureStoryboard.storyboardc/6fC-Hd-eVp-view-S9w-Kh-NYH.nib</key>
 		<data>
-		T3dZ/YBpbdWUicYL0EAm83LgYT4=
+		y3hZL1yKI8xhQv5t6SGmX7ubbVU=
 		</data>
 		<key>ElectronicSignatureStoryboard.storyboardc/ElectronicSignatureFieldsViewController.nib</key>
 		<data>
@@ -62,23 +54,27 @@
 		</data>
 		<key>ElectronicSignatureStoryboard.storyboardc/fXp-TL-knj-view-koU-ug-Hva.nib</key>
 		<data>
-		G2PBIWLJpml5CPRHV3IJyENwRpA=
+		Z39P39pD4M6vG5I2Ty8ccNGlLHI=
 		</data>
 		<key>EmailAuthenticationViewController.nib</key>
 		<data>
-		okfjnTg5oMs7+AXJiGqgOKRXQcI=
+		2NxNssulF6cFLlIMTSUbnKc8WC8=
+		</data>
+		<key>EmailForgetAuthenticationViewController.nib</key>
+		<data>
+		muKgZH+U4jWMY7EtFyVlOkWC+Rs=
 		</data>
 		<key>EmailUpdateAuthenticationViewController.nib</key>
 		<data>
-		cCljgtpSfAFNu59ef+FyDAhSj28=
+		2m8KacQ4zSPQ1ZNgpMfMxN7E9ng=
 		</data>
 		<key>EmailVerificationStoryBoard.storyboardc/9rU-fq-zqz-view-V6t-8M-asf.nib/objects-14.0+.nib</key>
 		<data>
-		g00ln2tKf4Qp9k3CQLPyEx73GiU=
+		HHD1SPmv+CshiJpglSzJ/08lUdE=
 		</data>
 		<key>EmailVerificationStoryBoard.storyboardc/9rU-fq-zqz-view-V6t-8M-asf.nib/runtime.nib</key>
 		<data>
-		g00ln2tKf4Qp9k3CQLPyEx73GiU=
+		HHD1SPmv+CshiJpglSzJ/08lUdE=
 		</data>
 		<key>EmailVerificationStoryBoard.storyboardc/AddEmailViewController.nib/objects-14.0+.nib</key>
 		<data>
@@ -90,11 +86,11 @@
 		</data>
 		<key>EmailVerificationStoryBoard.storyboardc/Bcn-Nq-MGB-view-NVb-Ps-RVz.nib/objects-14.0+.nib</key>
 		<data>
-		MAVF9gA7K5/lKfphvTFUq+nBE+U=
+		hq2hynfbxIxgFsaXXd7wUiAz8MM=
 		</data>
 		<key>EmailVerificationStoryBoard.storyboardc/Bcn-Nq-MGB-view-NVb-Ps-RVz.nib/runtime.nib</key>
 		<data>
-		MAVF9gA7K5/lKfphvTFUq+nBE+U=
+		hq2hynfbxIxgFsaXXd7wUiAz8MM=
 		</data>
 		<key>EmailVerificationStoryBoard.storyboardc/EmailOtpVerificationViewController.nib/objects-14.0+.nib</key>
 		<data>
@@ -118,19 +114,19 @@
 		</data>
 		<key>EmailVerificationStoryBoard.storyboardc/vpc-j2-Z2U-view-uAc-ye-WgU.nib/objects-14.0+.nib</key>
 		<data>
-		gYh8NcTZTLqUH5dH9EirwwMhoz4=
+		i4r3sREfpLjrnzfosW3+QO6MOZI=
 		</data>
 		<key>EmailVerificationStoryBoard.storyboardc/vpc-j2-Z2U-view-uAc-ye-WgU.nib/runtime.nib</key>
 		<data>
-		kQ4lFA2MTL9HLkwxDs7+197wztY=
+		8fttLHG2Q5PnZPld5WfrfzW7NOA=
 		</data>
 		<key>FaceAuthenticationViewController.nib</key>
 		<data>
-		QIgPHYQRJDYuWYRonFbF2G5izKc=
+		qPe05ohPLjCkJ4HRKWfhVF4T4DQ=
 		</data>
 		<key>FaceRegonitionStoryboard.storyboardc/0uc-6g-b01-view-MoG-T1-CP6.nib</key>
 		<data>
-		IT/U0MRb+rWsiKoG863r75LyIE0=
+		fPqaHpCyQXeLQ6NvB3NpZ3DgE9U=
 		</data>
 		<key>FaceRegonitionStoryboard.storyboardc/FaceAnimationViewController.nib</key>
 		<data>
@@ -146,7 +142,7 @@
 		</data>
 		<key>FaceRegonitionStoryboard.storyboardc/lLy-Vm-6g8-view-vYD-Ht-z96.nib</key>
 		<data>
-		J7CqiDL0/IgBr2i7Cejr3DjLsRA=
+		RboYrSe8M0I8SUMJ0Xa3dnXMICc=
 		</data>
 		<key>FaceStatusAnimation.nib</key>
 		<data>
@@ -154,15 +150,31 @@
 		</data>
 		<key>FaceUpdateAuthenticationViewController.nib</key>
 		<data>
-		QIgPHYQRJDYuWYRonFbF2G5izKc=
+		qPe05ohPLjCkJ4HRKWfhVF4T4DQ=
 		</data>
 		<key>FlipImageViewController.nib</key>
 		<data>
-		nvOWR3e7JPcr2Hb/JPKbEc9IKJg=
+		YPkwNMYb/Ns3tWtOCjM7qGyZg9M=
 		</data>
 		<key>FlippingView.nib</key>
 		<data>
 		WNGpKd1NwpEjUX9+e9f4ZwYveXk=
+		</data>
+		<key>ForgetDeviceLocationViewController.nib</key>
+		<data>
+		MNh12mtVG4WwhjJwAutQt1B+XXI=
+		</data>
+		<key>ForgetDeviceUDIDViewController.nib</key>
+		<data>
+		qPe05ohPLjCkJ4HRKWfhVF4T4DQ=
+		</data>
+		<key>ForgetFeatureStepsViewController.nib</key>
+		<data>
+		eN6+Y+KCMAkr6QVQppFwnsbWJfk=
+		</data>
+		<key>ForgetPasswordViewController.nib</key>
+		<data>
+		lDtZ9lDFOAKQr4f0LaxNxpDack8=
 		</data>
 		<key>GE-Flow-Regular.otf</key>
 		<data>
@@ -178,19 +190,19 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		te9Z/P8EJ8tfrRr6JTzxN3URXPg=
+		JO57CfxR78uQFjhdeNCxe+uf+3k=
 		</data>
 		<key>LocationAuthenticationViewController.nib</key>
 		<data>
-		QIgPHYQRJDYuWYRonFbF2G5izKc=
+		qPe05ohPLjCkJ4HRKWfhVF4T4DQ=
 		</data>
 		<key>MobileVerificationStoryboard.storyboardc/Ao6-fe-Du1-view-Mzk-oR-DqM.nib/objects-14.0+.nib</key>
 		<data>
-		UOESkCbOMeHVKsvAynE+hOaytHw=
+		mMhKHR6LXyvgiTFVQyQFYstJFsY=
 		</data>
 		<key>MobileVerificationStoryboard.storyboardc/Ao6-fe-Du1-view-Mzk-oR-DqM.nib/runtime.nib</key>
 		<data>
-		UOESkCbOMeHVKsvAynE+hOaytHw=
+		mMhKHR6LXyvgiTFVQyQFYstJFsY=
 		</data>
 		<key>MobileVerificationStoryboard.storyboardc/Info.plist</key>
 		<data>
@@ -222,59 +234,59 @@
 		</data>
 		<key>MobileVerificationStoryboard.storyboardc/S8S-KG-RZd-view-fwd-Un-95a.nib/objects-14.0+.nib</key>
 		<data>
-		prSR9ItbxyZ6IBQDAG/gEHxapzQ=
+		oB9kK4Q2CAEMIeZi2RIpc9MMvj8=
 		</data>
 		<key>MobileVerificationStoryboard.storyboardc/S8S-KG-RZd-view-fwd-Un-95a.nib/runtime.nib</key>
 		<data>
-		Gj2yEy/K+Eiue45iI2gR1AppsO4=
+		B4IuAeM6Uh8rE0Gt6K4q8xRXcYM=
 		</data>
 		<key>MobileVerificationStoryboard.storyboardc/WYt-xZ-HhW-view-Egg-WC-uex.nib/objects-14.0+.nib</key>
 		<data>
-		tmFiqPk+gSyYuob8bftNJs4pfGs=
+		ah5oUPoKUUSOu7VQOBb4msDjpQc=
 		</data>
 		<key>MobileVerificationStoryboard.storyboardc/WYt-xZ-HhW-view-Egg-WC-uex.nib/runtime.nib</key>
 		<data>
-		tmFiqPk+gSyYuob8bftNJs4pfGs=
+		ah5oUPoKUUSOu7VQOBb4msDjpQc=
 		</data>
 		<key>Modules/EnrollFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		c12Lr6NhMmNfKMXtkrTlHOYoohY=
+		o/aCcndLo4Ef+9voIcqNU1FvKiw=
 		</data>
 		<key>Modules/EnrollFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Y8V7V3f8TGeidx/jWOkkhbZkgYY=
+		BV4N4yijx4jWJ6Gxv+RJQW4XQLw=
 		</data>
 		<key>Modules/EnrollFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		1ySYuWq+A7mlw9TNHgBrw8hlcQ8=
+		kvDs6YXTjGX4L/13qmNjRx/+iJk=
 		</data>
 		<key>Modules/EnrollFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Y8V7V3f8TGeidx/jWOkkhbZkgYY=
+		BV4N4yijx4jWJ6Gxv+RJQW4XQLw=
 		</data>
 		<key>Modules/EnrollFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		XI+pYcOQTBiNmtMxc67cGb6sucU=
+		L551OmbkT4snVj07Cso695+BF5s=
 		</data>
 		<key>Modules/EnrollFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		c12Lr6NhMmNfKMXtkrTlHOYoohY=
+		o/aCcndLo4Ef+9voIcqNU1FvKiw=
 		</data>
 		<key>Modules/EnrollFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		lTHfyxCKt560zcd754K19Ojh3iM=
+		Eo8Hc8uW8Q2tR3QkK77CUlDQdmo=
 		</data>
 		<key>Modules/EnrollFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		g8oHFuati1NdbhkzQZK1PGMCVV8=
+		ORFZozSwtdu88Ce7zZwF8QjT3Eo=
 		</data>
 		<key>Modules/EnrollFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		lTHfyxCKt560zcd754K19Ojh3iM=
+		Eo8Hc8uW8Q2tR3QkK77CUlDQdmo=
 		</data>
 		<key>Modules/EnrollFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		igwioTBU7d5sEueLMdGMg8ORbF0=
+		+2cZZbiHRkkInXdly7X8HZ4JUFc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -282,23 +294,31 @@
 		</data>
 		<key>NationalIDOrPassportExpirationAuthenticationViewController.nib</key>
 		<data>
-		QIgPHYQRJDYuWYRonFbF2G5izKc=
+		qPe05ohPLjCkJ4HRKWfhVF4T4DQ=
+		</data>
+		<key>NationalIdForgetAuthenticationViewController.nib</key>
+		<data>
+		1sgNbx7/JWaDE6XhdLIT85Vgu0g=
 		</data>
 		<key>PasswordAuthenticationViewController.nib</key>
 		<data>
-		K6uNWtP6qmeQyEjpFpDMkfISxtg=
+		geDhrs5zPhig+tp4OW7PN0V4doY=
+		</data>
+		<key>PasswordForgetAuthenticationViewController.nib</key>
+		<data>
+		hn8kTnY84out0w+qVN6pH6WYaeQ=
 		</data>
 		<key>PasswordUpdateAuthenticationViewController.nib</key>
 		<data>
-		Vh821AR+hLC42/tER30DR357kPU=
+		geDhrs5zPhig+tp4OW7PN0V4doY=
 		</data>
 		<key>PasswordViewController.nib</key>
 		<data>
-		cCdmxe2p1xASr6qVYoHAr9mYaT8=
+		lFe4sSKOnlVMH9CbX02SKnk4pHQ=
 		</data>
 		<key>PersonalConfirmation.storyboardc/6kw-Kz-Ybv-view-iv2-qG-DDc.nib</key>
 		<data>
-		57AwGrJp8POAIzxPHdlsah35hLc=
+		CuKDPyiTKVmdl5H0fQLBwqHvb9I=
 		</data>
 		<key>PersonalConfirmation.storyboardc/BackNationalIdViewController.nib</key>
 		<data>
@@ -322,7 +342,7 @@
 		</data>
 		<key>PersonalConfirmation.storyboardc/P6w-In-nxa-view-IRd-n5-8Q7.nib</key>
 		<data>
-		sihKpNFKla0u98ptQMeZ0Qo6BkE=
+		/8iAcmLAgD0Kw2dwBOdgoxQk3BU=
 		</data>
 		<key>PersonalConfirmation.storyboardc/PassportDataViewConntroller.nib</key>
 		<data>
@@ -334,39 +354,39 @@
 		</data>
 		<key>PersonalConfirmation.storyboardc/TPh-up-SEb-view-Snv-h1-6gK.nib</key>
 		<data>
-		aEMcXhhNDu1fzwsAe+mapaXQRk4=
+		AVb3OthbV+07YxsSKJ02W/w946Q=
 		</data>
 		<key>PersonalConfirmation.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<data>
-		czLZKOCesMKFpvFKHtKBij+xv7E=
+		himv4GzB63BxLjEZfw/3hVsq9j0=
 		</data>
 		<key>PersonalConfirmation.storyboardc/aSE-lI-ygr-view-TL6-Yr-kuu.nib</key>
 		<data>
-		ZNudk2lj4MHzsVU4SK6uhqdiUlM=
+		gBI5FiyPPTlplNtxRiqTcEni4js=
 		</data>
 		<key>PersonalConfirmation.storyboardc/lxg-fn-ejS-view-qIz-WL-9rX.nib</key>
 		<data>
-		JS/895vGRZCZ+nCo4I70C8fFohs=
+		AovIainUF+JfPneItWjkxqGyjLk=
 		</data>
 		<key>PhoneAuthenticationViewController.nib</key>
 		<data>
-		He7Tpv83zNiZvYGPf7hmCV6vUjM=
+		/avFvS77FYtzUjZ1J3CuIJNPT1U=
 		</data>
 		<key>PhoneUpdateAuthenticationViewController.nib</key>
 		<data>
-		Zt6dxIOFXZN2hUCzUjFDcRVAyQ8=
+		joYU48cClWSU/JU7BXRcqplFcY8=
 		</data>
 		<key>SameUDIDAuthenticationViewController.nib</key>
 		<data>
-		VRfxAsoxYNq9vpethWqaKZtR590=
+		qPe05ohPLjCkJ4HRKWfhVF4T4DQ=
 		</data>
 		<key>SameUDIDUpdateAuthenticationViewController.nib</key>
 		<data>
-		VRfxAsoxYNq9vpethWqaKZtR590=
+		qPe05ohPLjCkJ4HRKWfhVF4T4DQ=
 		</data>
 		<key>ScanErrorView.nib</key>
 		<data>
-		KHoHAdQy0Gi1iVtxMHbHqHjF/T0=
+		VlX1NDHYZJM3093WzXamezwq1WY=
 		</data>
 		<key>SecondsLoadingView.nib</key>
 		<data>
@@ -374,11 +394,11 @@
 		</data>
 		<key>SecurityQuestionAuthenticationViewController.nib</key>
 		<data>
-		7d01Im45oIKxDAlXkQ9Kn5ZJxlo=
+		hyWkjMS4UGeT8+7tJ5td52Dgw9s=
 		</data>
 		<key>SecurityQuestionUpdateAuthenticationViewController.nib</key>
 		<data>
-		UhiezYIQVgdeSFvmDW0ZR4BJHdk=
+		vhQQwj7zEuIifAjBpa/yrjKWh/E=
 		</data>
 		<key>SecurityQuestionsStoryBoard.storyboardc/Info.plist</key>
 		<data>
@@ -394,11 +414,11 @@
 		</data>
 		<key>SecurityQuestionsStoryBoard.storyboardc/Xlf-bS-zHJ-view-6jl-Sn-mEw.nib/objects-14.0+.nib</key>
 		<data>
-		dV1Jw8mujlWzjlP4DEkRfo6owwc=
+		u8M4oXHXGiqTB14fYsKigJdazoc=
 		</data>
 		<key>SecurityQuestionsStoryBoard.storyboardc/Xlf-bS-zHJ-view-6jl-Sn-mEw.nib/runtime.nib</key>
 		<data>
-		XcyXoc5DAwdSUftFR6EYdyCBMXk=
+		w1Py3fEsd3VO4a1VW9SV24hxdJg=
 		</data>
 		<key>SplashScreenViewController.storyboardc/Info.plist</key>
 		<data>
@@ -406,23 +426,75 @@
 		</data>
 		<key>SplashScreenViewController.storyboardc/SplashViewController.nib</key>
 		<data>
-		yBYg6AVpqcHNEd9ssnB6THbrJlM=
+		0cLnCufs/SMoKxVKoFF5tvos5lk=
 		</data>
 		<key>SplashScreenViewController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<data>
-		g/rwVECi1oJgB+B1c5q83qa21pM=
+		9EVN0cOHKbAY3y6a5u3VTdSwZUQ=
 		</data>
 		<key>TermsAndConditionsViewController.nib</key>
 		<data>
-		jW4q9e3RPqIDfu8lKCE9EpvzPjc=
+		c0Qo418DUSLXPVHsE9uhCn6HVec=
 		</data>
 		<key>UpdateDeviceLocationViewController.nib</key>
 		<data>
-		HFdeD7qKzQLLFgSdyzkMDlKSthc=
+		MNh12mtVG4WwhjJwAutQt1B+XXI=
 		</data>
 		<key>UpdateDeviceUDIDViewController.nib</key>
 		<data>
-		VRfxAsoxYNq9vpethWqaKZtR590=
+		qPe05ohPLjCkJ4HRKWfhVF4T4DQ=
+		</data>
+		<key>UpdateEmailVerificationStoryBoard.storyboardc/9rU-fq-zqz-view-V6t-8M-asf.nib/objects-14.0+.nib</key>
+		<data>
+		eLTVpDe/JpIfboSIKmpYonltbsA=
+		</data>
+		<key>UpdateEmailVerificationStoryBoard.storyboardc/9rU-fq-zqz-view-V6t-8M-asf.nib/runtime.nib</key>
+		<data>
+		eLTVpDe/JpIfboSIKmpYonltbsA=
+		</data>
+		<key>UpdateEmailVerificationStoryBoard.storyboardc/Bcn-Nq-MGB-view-NVb-Ps-RVz.nib/objects-14.0+.nib</key>
+		<data>
+		8APwv3NuQvcmdqtprzVVxAHTCUg=
+		</data>
+		<key>UpdateEmailVerificationStoryBoard.storyboardc/Bcn-Nq-MGB-view-NVb-Ps-RVz.nib/runtime.nib</key>
+		<data>
+		8APwv3NuQvcmdqtprzVVxAHTCUg=
+		</data>
+		<key>UpdateEmailVerificationStoryBoard.storyboardc/Info.plist</key>
+		<data>
+		sxRgzy2wXm3Z915x3JUUEivqLdg=
+		</data>
+		<key>UpdateEmailVerificationStoryBoard.storyboardc/UpdateAddEmailViewController.nib/objects-14.0+.nib</key>
+		<data>
+		rr4vtfBAgrDFDeP0K17YqE5wVZo=
+		</data>
+		<key>UpdateEmailVerificationStoryBoard.storyboardc/UpdateAddEmailViewController.nib/runtime.nib</key>
+		<data>
+		rr4vtfBAgrDFDeP0K17YqE5wVZo=
+		</data>
+		<key>UpdateEmailVerificationStoryBoard.storyboardc/UpdateEmailOtpVerificationViewController.nib/objects-14.0+.nib</key>
+		<data>
+		o4X2X9sdwzSp1qRQJUnSKLW/EoA=
+		</data>
+		<key>UpdateEmailVerificationStoryBoard.storyboardc/UpdateEmailOtpVerificationViewController.nib/runtime.nib</key>
+		<data>
+		o4X2X9sdwzSp1qRQJUnSKLW/EoA=
+		</data>
+		<key>UpdateEmailVerificationStoryBoard.storyboardc/UpdateManageEmailsViewController.nib/objects-14.0+.nib</key>
+		<data>
+		8Y7fS6LxffoEy/nCSJEi4q+kLYo=
+		</data>
+		<key>UpdateEmailVerificationStoryBoard.storyboardc/UpdateManageEmailsViewController.nib/runtime.nib</key>
+		<data>
+		8Y7fS6LxffoEy/nCSJEi4q+kLYo=
+		</data>
+		<key>UpdateEmailVerificationStoryBoard.storyboardc/vpc-j2-Z2U-view-uAc-ye-WgU.nib/objects-14.0+.nib</key>
+		<data>
+		hzr8vZy2Nq4Dg8jGcW6LGn2/bsc=
+		</data>
+		<key>UpdateEmailVerificationStoryBoard.storyboardc/vpc-j2-Z2U-view-uAc-ye-WgU.nib/runtime.nib</key>
+		<data>
+		x/LmarBl+rq9Ej/HOr1tEkztQYE=
 		</data>
 		<key>UpdateFeatureStepsStoryBoard.storyboardc/Info.plist</key>
 		<data>
@@ -434,15 +506,67 @@
 		</data>
 		<key>UpdateFeatureStepsStoryBoard.storyboardc/Y6W-OH-hqX-view-n0z-e4-lFY.nib</key>
 		<data>
-		JU1KLESv2H+rHujU1edQ7dRpv9k=
+		OkhuVxnWPUJm5aEV1MnAgBc8dGA=
 		</data>
 		<key>UpdateGeneralFeatureViewController.nib</key>
 		<data>
 		fAqbdd5QDjyzdzFkdLqQjACzYFg=
 		</data>
+		<key>UpdateMobileVerificationStoryboard.storyboardc/Ao6-fe-Du1-view-Mzk-oR-DqM.nib/objects-14.0+.nib</key>
+		<data>
+		0OynOwlGmf3ddNg3rNwbuMMce54=
+		</data>
+		<key>UpdateMobileVerificationStoryboard.storyboardc/Ao6-fe-Du1-view-Mzk-oR-DqM.nib/runtime.nib</key>
+		<data>
+		0OynOwlGmf3ddNg3rNwbuMMce54=
+		</data>
+		<key>UpdateMobileVerificationStoryboard.storyboardc/Info.plist</key>
+		<data>
+		9VK+gAcKvepmc0xqHQKVQHT99Ms=
+		</data>
+		<key>UpdateMobileVerificationStoryboard.storyboardc/S8S-KG-RZd-view-fwd-Un-95a.nib/objects-14.0+.nib</key>
+		<data>
+		zpFD7GeA5OPd2GuaU0SyLMIEbXM=
+		</data>
+		<key>UpdateMobileVerificationStoryboard.storyboardc/S8S-KG-RZd-view-fwd-Un-95a.nib/runtime.nib</key>
+		<data>
+		a6L6ttbhYgCnFzV5IOpxmnm/aO4=
+		</data>
+		<key>UpdateMobileVerificationStoryboard.storyboardc/UpdateAddMobileNumberViewController.nib/objects-14.0+.nib</key>
+		<data>
+		SKe5NvD+9eZuIbO+Rlw/eZv5VYE=
+		</data>
+		<key>UpdateMobileVerificationStoryboard.storyboardc/UpdateAddMobileNumberViewController.nib/runtime.nib</key>
+		<data>
+		SKe5NvD+9eZuIbO+Rlw/eZv5VYE=
+		</data>
+		<key>UpdateMobileVerificationStoryboard.storyboardc/UpdateManageMobileNumbersViewController.nib/objects-14.0+.nib</key>
+		<data>
+		Sc5tP9ywv7gC0TyLI5CcMoerRsI=
+		</data>
+		<key>UpdateMobileVerificationStoryboard.storyboardc/UpdateManageMobileNumbersViewController.nib/runtime.nib</key>
+		<data>
+		Sc5tP9ywv7gC0TyLI5CcMoerRsI=
+		</data>
+		<key>UpdateMobileVerificationStoryboard.storyboardc/UpdateMobileOtpVerificationViewController.nib/objects-14.0+.nib</key>
+		<data>
+		gV3cAsRqBVKbODvjyOTHmTfmXyc=
+		</data>
+		<key>UpdateMobileVerificationStoryboard.storyboardc/UpdateMobileOtpVerificationViewController.nib/runtime.nib</key>
+		<data>
+		gV3cAsRqBVKbODvjyOTHmTfmXyc=
+		</data>
+		<key>UpdateMobileVerificationStoryboard.storyboardc/WYt-xZ-HhW-view-Egg-WC-uex.nib/objects-14.0+.nib</key>
+		<data>
+		LlHWvfy+oGlM0sq4CNm18l80y2E=
+		</data>
+		<key>UpdateMobileVerificationStoryboard.storyboardc/WYt-xZ-HhW-view-Egg-WC-uex.nib/runtime.nib</key>
+		<data>
+		LlHWvfy+oGlM0sq4CNm18l80y2E=
+		</data>
 		<key>UpdateNationalIdStoryBoard.storyboardc/6kw-Kz-Ybv-view-iv2-qG-DDc.nib</key>
 		<data>
-		57AwGrJp8POAIzxPHdlsah35hLc=
+		ze8rhmEW0/fWhSzHeztONKKTAj0=
 		</data>
 		<key>UpdateNationalIdStoryBoard.storyboardc/Info.plist</key>
 		<data>
@@ -462,15 +586,15 @@
 		</data>
 		<key>UpdateNationalIdStoryBoard.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<data>
-		czLZKOCesMKFpvFKHtKBij+xv7E=
+		KUpPuVGNi0bq2xTRMV7BEQhxqZI=
 		</data>
 		<key>UpdateNationalIdStoryBoard.storyboardc/aSE-lI-ygr-view-TL6-Yr-kuu.nib</key>
 		<data>
-		ZNudk2lj4MHzsVU4SK6uhqdiUlM=
+		Ed2bkUJkhTPQ5fEcPAwjNxbM5es=
 		</data>
 		<key>UpdatePassportStoryBoard.storyboardc/Cm9-be-Ow2-view-cnj-Iz-HGR.nib</key>
 		<data>
-		zxnnw+5TbZbhdHWV29kncRyBBG0=
+		sLrxcU8DPArH3uokyrp7ff2sQ9A=
 		</data>
 		<key>UpdatePassportStoryBoard.storyboardc/Info.plist</key>
 		<data>
@@ -486,11 +610,23 @@
 		</data>
 		<key>UpdatePassportStoryBoard.storyboardc/ldM-9G-u2K-view-Wve-Qf-1f1.nib</key>
 		<data>
-		+StWef1+tI1WY5EE9r2jbAia4mw=
+		KYza4Zc5yJY5tCagGGaB0FyUOcA=
+		</data>
+		<key>UpdatePasswordViewController.nib</key>
+		<data>
+		lDtZ9lDFOAKQr4f0LaxNxpDack8=
+		</data>
+		<key>UpdateSecurityQuestionsViewController.nib/objects-14.0+.nib</key>
+		<data>
+		SvpjOoYo94YW4593eGzeHX7XJ3k=
+		</data>
+		<key>UpdateSecurityQuestionsViewController.nib/runtime.nib</key>
+		<data>
+		2T7pigp8H9a8cmVUIp/wfuWVOBg=
 		</data>
 		<key>UpdateStepTableViewCell.nib</key>
 		<data>
-		VbwpeBBIpQrnCe54zSOPMdg1OSc=
+		FanCDi60/Qa8friOvsTbJ7JciDc=
 		</data>
 		<key>UserDataItemView.nib/objects-14.0+.nib</key>
 		<data>
@@ -527,14 +663,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			947z+jXWbXHHK7foOGWhu46P8QuI3Utt0V/DckTvo0Y=
+			XfsK6WCU04qtTGAL3q2ehZe9mqjF0K8iB8YXfCwzj6E=
 			</data>
 		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2flKVjlK6EdgwH3qKIcqNGN7R/RwD4PwNYlB+sikJGg=
+			sifbcCe/x23QAMNB/RC2ESbzBvWWyo1ZqGHdZ8P1hzo=
 			</data>
 		</dict>
 		<key>Cairo-Regular.ttf</key>
@@ -544,25 +680,11 @@
 			dWDiS7FqV7UIWx7+AZVsTW566cvw77yXZ++kc42Llls=
 			</data>
 		</dict>
-		<key>CantLoginStoryBoard.storyboardc/CantLoginViewController.nib</key>
+		<key>CustomEnrollImage.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hCVixWlywYgjuWBmQk8qx9OczNeJydJtIvDfRSFAJdg=
-			</data>
-		</dict>
-		<key>CantLoginStoryBoard.storyboardc/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/XbhwyzyYbKPveAIdUNoeVQKaxeOHZkV8zC7AoU7ivU=
-			</data>
-		</dict>
-		<key>CantLoginStoryBoard.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			eY2xUL0E7RtfU3K2iDgDvZPqP4IO0GDiuyhJho31nbA=
+			YC2tA7wCOeO3UIZQCXaWYiW89S+gibOAXxS6ubCAzgM=
 			</data>
 		</dict>
 		<key>CustomHeader.nib</key>
@@ -590,14 +712,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RiaH20TWcokZZbUQXg39KCgkwRPtyKmgp11O5OY9598=
+			MiH4gie/hBX6QW0ZHlxLR6eHhRYsKIS44mko2npGHg0=
 			</data>
 		</dict>
 		<key>ElectronicSignatureStoryboard.storyboardc/6fC-Hd-eVp-view-S9w-Kh-NYH.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hpZ2takztvrnOaUROuQy4KxE4tfud5R+Y0RUmsnRnlY=
+			phq561tPeettxJtHjNq/PEsOGxpfIlOekEUu12onB4k=
 			</data>
 		</dict>
 		<key>ElectronicSignatureStoryboard.storyboardc/ElectronicSignatureFieldsViewController.nib</key>
@@ -625,35 +747,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aQXh/Qnk/hRj5c/nAYCwGJNiaHfL6ByjiylDMLEma2k=
+			seq/qmaLAE3YWMMqHua15LWZN2fBWi/P0LapHOSFGnY=
 			</data>
 		</dict>
 		<key>EmailAuthenticationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lFC9zfHiOSeQCaAjEmyUZmTDn7jqS0aMlATBwRVWbGI=
+			WgEIb3rhYwD87mfZRRZy9n2wpbUaaLo14+pMjOKyHow=
+			</data>
+		</dict>
+		<key>EmailForgetAuthenticationViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rKDYZMLC3bH3nkvjkC1iqq1SiWSYrpshDDqCfRYzCUA=
 			</data>
 		</dict>
 		<key>EmailUpdateAuthenticationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7bhy57qfFEGDR+q+qvcrI6FyHH0KDpgdh/mLtoNInBk=
+			gtthsEi4zi+7r2jzJ0EgM4JL4kawInZVq+NVz1JeKeE=
 			</data>
 		</dict>
 		<key>EmailVerificationStoryBoard.storyboardc/9rU-fq-zqz-view-V6t-8M-asf.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pGhUJ4vxXKY5SNj/J2hhy6/JfJeI6CQp8XJjlKyZ90k=
+			Ww8u6S+5gPbhBiJDjoqU7W79kmjvAM7qZBUyzZaliQQ=
 			</data>
 		</dict>
 		<key>EmailVerificationStoryBoard.storyboardc/9rU-fq-zqz-view-V6t-8M-asf.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pGhUJ4vxXKY5SNj/J2hhy6/JfJeI6CQp8XJjlKyZ90k=
+			Ww8u6S+5gPbhBiJDjoqU7W79kmjvAM7qZBUyzZaliQQ=
 			</data>
 		</dict>
 		<key>EmailVerificationStoryBoard.storyboardc/AddEmailViewController.nib/objects-14.0+.nib</key>
@@ -674,14 +803,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mcO8Idz/XyqyuClf0lrSr3Rs3r61KNi0X2MGuXG+mnE=
+			kYd94geboZNyACXE1flWAiRLB5RxcBl1HjOHKsFdCoQ=
 			</data>
 		</dict>
 		<key>EmailVerificationStoryBoard.storyboardc/Bcn-Nq-MGB-view-NVb-Ps-RVz.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mcO8Idz/XyqyuClf0lrSr3Rs3r61KNi0X2MGuXG+mnE=
+			kYd94geboZNyACXE1flWAiRLB5RxcBl1HjOHKsFdCoQ=
 			</data>
 		</dict>
 		<key>EmailVerificationStoryBoard.storyboardc/EmailOtpVerificationViewController.nib/objects-14.0+.nib</key>
@@ -723,28 +852,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3eJXBv8Qn7Y46wgHn+SH82CXXPWCO2cmHEvY6FBUkNs=
+			KLBEGYobhkXSr3c2AlgafPstJ2MgN4FZ+XSOYA/Jtkg=
 			</data>
 		</dict>
 		<key>EmailVerificationStoryBoard.storyboardc/vpc-j2-Z2U-view-uAc-ye-WgU.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			v7WYAh+GCJ+IAeRrFZjNGUhuftKhLVVIMwlbXIYFduw=
+			Id3nv4Yaa+59yXJrBhZSEasklRc5HqLRMb8snhIn2Zg=
 			</data>
 		</dict>
 		<key>FaceAuthenticationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xyuMJTntPv4OVPgU1Ykp0vK0IaJ1A7zx0mE21H+eodQ=
+			eY2xUL0E7RtfU3K2iDgDvZPqP4IO0GDiuyhJho31nbA=
 			</data>
 		</dict>
 		<key>FaceRegonitionStoryboard.storyboardc/0uc-6g-b01-view-MoG-T1-CP6.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MP4QOLaFqiLoCmLxB6XYb7Uc71jggk8Lnq4DgQmWrO8=
+			YgcDI+JCDTIx8uv3P/t0rr3/Sqbf1tLmYJZbbNkT2TU=
 			</data>
 		</dict>
 		<key>FaceRegonitionStoryboard.storyboardc/FaceAnimationViewController.nib</key>
@@ -772,7 +901,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6gRXsJzi6u1rVVA1ZBHhrWcfng8ZYz1AX7DOpQVNsPw=
+			sGRzvpPPkBPKot1yvcj81GhJlDFxM4zWi8AtG5bQxg8=
 			</data>
 		</dict>
 		<key>FaceStatusAnimation.nib</key>
@@ -786,14 +915,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xyuMJTntPv4OVPgU1Ykp0vK0IaJ1A7zx0mE21H+eodQ=
+			eY2xUL0E7RtfU3K2iDgDvZPqP4IO0GDiuyhJho31nbA=
 			</data>
 		</dict>
 		<key>FlipImageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			F17WjqB6NcVL3OHsCIqbMWeveZvTWoWFEA+Otn38llU=
+			eGOBWND5ZoTFCp87XReRzUvfqBFMjhzovxIw56/anBE=
 			</data>
 		</dict>
 		<key>FlippingView.nib</key>
@@ -801,6 +930,34 @@
 			<key>hash2</key>
 			<data>
 			K/7OYYOsVZ14Jy6lEaBJolvCxtOcyYb3GZ0pavp5ZEw=
+			</data>
+		</dict>
+		<key>ForgetDeviceLocationViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UIleI8xF3fNGu6Gu0ClJhEdZm8MWqEvouJxY2gqJuf4=
+			</data>
+		</dict>
+		<key>ForgetDeviceUDIDViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eY2xUL0E7RtfU3K2iDgDvZPqP4IO0GDiuyhJho31nbA=
+			</data>
+		</dict>
+		<key>ForgetFeatureStepsViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zIcIl6M9WCxDqUkAT7fOy4yuoM3KxDapWvjFPWEUEls=
+			</data>
+		</dict>
+		<key>ForgetPasswordViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IC0RLArJ7z6x8jDnqB6rRznngeKHTU8x6Ks02ofb3Q4=
 			</data>
 		</dict>
 		<key>GE-Flow-Regular.otf</key>
@@ -828,21 +985,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xyuMJTntPv4OVPgU1Ykp0vK0IaJ1A7zx0mE21H+eodQ=
+			eY2xUL0E7RtfU3K2iDgDvZPqP4IO0GDiuyhJho31nbA=
 			</data>
 		</dict>
 		<key>MobileVerificationStoryboard.storyboardc/Ao6-fe-Du1-view-Mzk-oR-DqM.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rUqESn7vEV5Ml8O8C0IkR1XLheLcKmKJBBRhhLPsLtM=
+			9j3rJC6F0/1jnU8p1RsgOvtIAJCqlgPQpsBfAPOH5LM=
 			</data>
 		</dict>
 		<key>MobileVerificationStoryboard.storyboardc/Ao6-fe-Du1-view-Mzk-oR-DqM.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rUqESn7vEV5Ml8O8C0IkR1XLheLcKmKJBBRhhLPsLtM=
+			9j3rJC6F0/1jnU8p1RsgOvtIAJCqlgPQpsBfAPOH5LM=
 			</data>
 		</dict>
 		<key>MobileVerificationStoryboard.storyboardc/Info.plist</key>
@@ -898,98 +1055,98 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			J6IBgWwZ1WYaA1asv/qllI5ygjaRfqs7S32gN14b9mM=
+			IlTtG8RsNi+vGvaeIGnCDkXQNX8JKM/Z6zwGuxwLjZg=
 			</data>
 		</dict>
 		<key>MobileVerificationStoryboard.storyboardc/S8S-KG-RZd-view-fwd-Un-95a.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6apQkCol8Dzm9W0taZnZ7Mo/A7/04KXHgCJ3E/7EBBE=
+			8blf/edp6zfYN6NP4E9BPcS3SBBsdMfLT7St03MR8/Y=
 			</data>
 		</dict>
 		<key>MobileVerificationStoryboard.storyboardc/WYt-xZ-HhW-view-Egg-WC-uex.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZmdPnoLKiMjJtfWmwt9DAplMJY0tCwtMrifKeUb0JA0=
+			ibxL+SniwelG3UE3v0zIne7ul2ovhTi5mXKibnFkuT4=
 			</data>
 		</dict>
 		<key>MobileVerificationStoryboard.storyboardc/WYt-xZ-HhW-view-Egg-WC-uex.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZmdPnoLKiMjJtfWmwt9DAplMJY0tCwtMrifKeUb0JA0=
+			ibxL+SniwelG3UE3v0zIne7ul2ovhTi5mXKibnFkuT4=
 			</data>
 		</dict>
 		<key>Modules/EnrollFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OJIjiiEODZfNqp7+O12By/h1mG3tJAHXQ9FAFQH4bdI=
+			AIoBbd73GQpxm2Dw7PbnrrzznxdA6m/AM/qcw7WHKsM=
 			</data>
 		</dict>
 		<key>Modules/EnrollFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bpE+uFxU0TeS1ii10HVjVivBV0yUYSZCFJ5Tnp5Vy/w=
+			yyEXcQ2HE18Yrz8UWtrr/s52H8Jsg7JrcjBa3EukyKE=
 			</data>
 		</dict>
 		<key>Modules/EnrollFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			s8MdhI7O9CW/rAsUw0/ViWp9NfSDH338Q99Q8I6fg+o=
+			13EHcalSrl5ZZSoruE+y3uQl3OEgl8bqFfy9C+ZXoMY=
 			</data>
 		</dict>
 		<key>Modules/EnrollFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bpE+uFxU0TeS1ii10HVjVivBV0yUYSZCFJ5Tnp5Vy/w=
+			yyEXcQ2HE18Yrz8UWtrr/s52H8Jsg7JrcjBa3EukyKE=
 			</data>
 		</dict>
 		<key>Modules/EnrollFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			l8eUOKLpk0dECvU+/gi7VePQBOsCSiHhG74KaVurvLc=
+			zmCHs9RGl7csaAhp+/4Z1QeQvm8fFtaJ4USuNhGzd3g=
 			</data>
 		</dict>
 		<key>Modules/EnrollFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OJIjiiEODZfNqp7+O12By/h1mG3tJAHXQ9FAFQH4bdI=
+			AIoBbd73GQpxm2Dw7PbnrrzznxdA6m/AM/qcw7WHKsM=
 			</data>
 		</dict>
 		<key>Modules/EnrollFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			p4tpaNk001p/uETmqeFWybir7ekedtwdSL3qC8FCceI=
+			yfBf5+akW7rUdjLNj7IVBGlC8mtHXmwaGonJ8TJeiTM=
 			</data>
 		</dict>
 		<key>Modules/EnrollFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PhMBr6EF7JKEEDPE5UN/596nIzVATUCfnt8AeNi0L0A=
+			K100uWhZzLpykdWtwFJzrgNOSGhrZJnks6EROW6F+J4=
 			</data>
 		</dict>
 		<key>Modules/EnrollFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			p4tpaNk001p/uETmqeFWybir7ekedtwdSL3qC8FCceI=
+			yfBf5+akW7rUdjLNj7IVBGlC8mtHXmwaGonJ8TJeiTM=
 			</data>
 		</dict>
 		<key>Modules/EnrollFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ySTE/e1qA224MH0zs2u4JdAThKRe7Lv6VGtWF7fcOgw=
+			59gG5p+dWpGZyqG+EVWuIFet7Sp9cG+E1acK9hpyvFs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1003,35 +1160,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xyuMJTntPv4OVPgU1Ykp0vK0IaJ1A7zx0mE21H+eodQ=
+			eY2xUL0E7RtfU3K2iDgDvZPqP4IO0GDiuyhJho31nbA=
+			</data>
+		</dict>
+		<key>NationalIdForgetAuthenticationViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1+n1rUVmreqIZ2SQ292ncfU7PKY0OUTxXFdD8yD32mc=
 			</data>
 		</dict>
 		<key>PasswordAuthenticationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5WMZE2g9Uar76Hudk9KigVC2vv3+OQimpoeItiXiRAI=
+			a2aKGwo623yj9rwNIR0l+M0IAroqwE3a/aPjn1ybUQQ=
+			</data>
+		</dict>
+		<key>PasswordForgetAuthenticationViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YQS1DTB+hKmY8BkyA60dZ5CmzIEV+d/b7ORp49OAR9I=
 			</data>
 		</dict>
 		<key>PasswordUpdateAuthenticationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fVo6QSxUMFfsST+eQRGe1iIh8ISAPZy7QgbLxRHV68E=
+			a2aKGwo623yj9rwNIR0l+M0IAroqwE3a/aPjn1ybUQQ=
 			</data>
 		</dict>
 		<key>PasswordViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4TjH2mUrdiNPCW2K3NCf9+SBwTw5SM2nIZTsncQT4pM=
+			11F31SWFG9nHgO3TBir1lGmjzmJP9BKal0ngNaQ5GZU=
 			</data>
 		</dict>
 		<key>PersonalConfirmation.storyboardc/6kw-Kz-Ybv-view-iv2-qG-DDc.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UwBHhOd+4/iIstyBXijk7+Wloi9PA1886VNjcaX2K2w=
+			H0TkW36esd3TZLZ/eCJdTRQQvTTsOH5D2PTmhMjvkpo=
 			</data>
 		</dict>
 		<key>PersonalConfirmation.storyboardc/BackNationalIdViewController.nib</key>
@@ -1073,7 +1244,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			daAJuZ3aCh/qaQ4FupihHqvZ+bGpJHQpz4yJb51PRss=
+			BxaNrS3kcotloGJsfRX2aMTWGCqjkrdP7E/9ZEbjQYk=
 			</data>
 		</dict>
 		<key>PersonalConfirmation.storyboardc/PassportDataViewConntroller.nib</key>
@@ -1094,63 +1265,63 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			azYDQvDyFrIGy7KlOYZRI+DJONMEUnOqah/DMoAxrDU=
+			IsKHebdB1J33s+iwN6xSlwJr3/rJaFqkMvEO69sfysU=
 			</data>
 		</dict>
 		<key>PersonalConfirmation.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7pRMIxx8RLo0YXloxSylWpjsLMHs5tV1jy2nQK+fliw=
+			pzSyb/XuUzr/ZGlSN0hFynQeuaeqtzMT3ypTNVfx4Hg=
 			</data>
 		</dict>
 		<key>PersonalConfirmation.storyboardc/aSE-lI-ygr-view-TL6-Yr-kuu.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Bx2kOPOygOCUzf6IMkLjne8FNmKfCg1lyw+zsAp/EjU=
+			BcS3xvpjQrdvHLzpOuc5IjrHpSkMvkvPiJeqPGkbHC0=
 			</data>
 		</dict>
 		<key>PersonalConfirmation.storyboardc/lxg-fn-ejS-view-qIz-WL-9rX.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xgyHdVKDUweV+EMyvtCHWAQX8RIbU3E7ARw2+EaPvNE=
+			KIeYg08H8vbbapigOonC2346YyFvDVlBZWMkpXKVftk=
 			</data>
 		</dict>
 		<key>PhoneAuthenticationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4epkQlvkWPsJx3PJRCO1d4ESVD29/+aVYVHKzzRYdL4=
+			e+SvBK/RK5HwLbAlqnL81klFoWI26skW2dRZ7vnb+c8=
 			</data>
 		</dict>
 		<key>PhoneUpdateAuthenticationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+rxPkHv++0VOh8x+AZ9425a2B1eRMafDyL8H2GPvwJY=
+			uw9TWFVS1VAVKG5aSbeziqpoVZh7C5tGv+acfFDq/c4=
 			</data>
 		</dict>
 		<key>SameUDIDAuthenticationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sYzaHfh4z9YpZ5ABe2N7INOklQsOpQNoDF//KR9Z5mI=
+			eY2xUL0E7RtfU3K2iDgDvZPqP4IO0GDiuyhJho31nbA=
 			</data>
 		</dict>
 		<key>SameUDIDUpdateAuthenticationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sYzaHfh4z9YpZ5ABe2N7INOklQsOpQNoDF//KR9Z5mI=
+			eY2xUL0E7RtfU3K2iDgDvZPqP4IO0GDiuyhJho31nbA=
 			</data>
 		</dict>
 		<key>ScanErrorView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZNfhYtJIvkhZg+jv2evdtCarm9KWub53KuulIQShzok=
+			pVyvzdZMM1cxhEO8CGMSabgw/ARAOyZA08+kq5AHi38=
 			</data>
 		</dict>
 		<key>SecondsLoadingView.nib</key>
@@ -1164,14 +1335,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			soliXCfmrHDvf3nNJ59tIOpiSL6jRLFb9C090BiINnI=
+			Brh5S1yY0hZxL1NGcG7EApdrxj1dZS3FwW5TbfqTHro=
 			</data>
 		</dict>
 		<key>SecurityQuestionUpdateAuthenticationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nmvBKNKTC1QuwiuM3kZSKnDxIlA7rXuMl4Bt4ZIMU+k=
+			A3NeopVPqvAwU3KJIsNb7tdciTARv0IrOADxaMi/ulU=
 			</data>
 		</dict>
 		<key>SecurityQuestionsStoryBoard.storyboardc/Info.plist</key>
@@ -1199,14 +1370,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NgcNjzUbUBs4/6qbn7G8dNnjojdVTArJieaXhXacidE=
+			RV6Bpd8u1EA59QItbguJpVeTaBaba36wyoI23fgf2Z8=
 			</data>
 		</dict>
 		<key>SecurityQuestionsStoryBoard.storyboardc/Xlf-bS-zHJ-view-6jl-Sn-mEw.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QF+JpXB1/v9KejqyPy/Rjkai7YC9w+BsewtVnykeVpw=
+			iEO1z6tz+T5f80L6tUFSnneNvJdemVsUIWMMxay72c4=
 			</data>
 		</dict>
 		<key>SplashScreenViewController.storyboardc/Info.plist</key>
@@ -1220,35 +1391,126 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GnmlD2gK2hiqfl2xsYRNEZnkfvzwvstb9DsaYazNIos=
+			bTGgx7A482mkX/mKxJU0vk+RO/mfg/1rUXFfFFfFHEs=
 			</data>
 		</dict>
 		<key>SplashScreenViewController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZFATQw+Zt7ALfFp+5+1uDbx9YMV2XQdhE5mugsIcp7k=
+			lbeqca3VVXFMjWpYFG6Q+KFA5J4nRrsNAqj0AHG6vpU=
 			</data>
 		</dict>
 		<key>TermsAndConditionsViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BXpg1NTwod0ejcWmDirfjCj8rbawyaYhe1mfng6QiMg=
+			RFroCu1IFFKU35cWFXcWdvu34hMnyJ0hipxeed3Geaw=
 			</data>
 		</dict>
 		<key>UpdateDeviceLocationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RiaH20TWcokZZbUQXg39KCgkwRPtyKmgp11O5OY9598=
+			UIleI8xF3fNGu6Gu0ClJhEdZm8MWqEvouJxY2gqJuf4=
 			</data>
 		</dict>
 		<key>UpdateDeviceUDIDViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sYzaHfh4z9YpZ5ABe2N7INOklQsOpQNoDF//KR9Z5mI=
+			eY2xUL0E7RtfU3K2iDgDvZPqP4IO0GDiuyhJho31nbA=
+			</data>
+		</dict>
+		<key>UpdateEmailVerificationStoryBoard.storyboardc/9rU-fq-zqz-view-V6t-8M-asf.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3JO0HHwcG2g697stcspIxwNU+wovSO2K89rEc1EKtSw=
+			</data>
+		</dict>
+		<key>UpdateEmailVerificationStoryBoard.storyboardc/9rU-fq-zqz-view-V6t-8M-asf.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3JO0HHwcG2g697stcspIxwNU+wovSO2K89rEc1EKtSw=
+			</data>
+		</dict>
+		<key>UpdateEmailVerificationStoryBoard.storyboardc/Bcn-Nq-MGB-view-NVb-Ps-RVz.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			R8JPo7wIqpSi7JEkVMY+ghSGNqQkVFnCHz6OIWo3B+U=
+			</data>
+		</dict>
+		<key>UpdateEmailVerificationStoryBoard.storyboardc/Bcn-Nq-MGB-view-NVb-Ps-RVz.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			R8JPo7wIqpSi7JEkVMY+ghSGNqQkVFnCHz6OIWo3B+U=
+			</data>
+		</dict>
+		<key>UpdateEmailVerificationStoryBoard.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uD05O1COKH4TDkY9/37oVt1la+QvIEjquZwa0hQjdTg=
+			</data>
+		</dict>
+		<key>UpdateEmailVerificationStoryBoard.storyboardc/UpdateAddEmailViewController.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			186QVmVCyEGFJ8GpM2MDK9PFQCjbA0+uJPx6ZPR+kYY=
+			</data>
+		</dict>
+		<key>UpdateEmailVerificationStoryBoard.storyboardc/UpdateAddEmailViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			186QVmVCyEGFJ8GpM2MDK9PFQCjbA0+uJPx6ZPR+kYY=
+			</data>
+		</dict>
+		<key>UpdateEmailVerificationStoryBoard.storyboardc/UpdateEmailOtpVerificationViewController.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nI5ADZ474pwBDa40F0hXFbgSBWsipbwIAoBJCM9a5Mk=
+			</data>
+		</dict>
+		<key>UpdateEmailVerificationStoryBoard.storyboardc/UpdateEmailOtpVerificationViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nI5ADZ474pwBDa40F0hXFbgSBWsipbwIAoBJCM9a5Mk=
+			</data>
+		</dict>
+		<key>UpdateEmailVerificationStoryBoard.storyboardc/UpdateManageEmailsViewController.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CASxUXcOQxfepnCrrCwL9n/+IZWeR2MDcpoaridnJY0=
+			</data>
+		</dict>
+		<key>UpdateEmailVerificationStoryBoard.storyboardc/UpdateManageEmailsViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CASxUXcOQxfepnCrrCwL9n/+IZWeR2MDcpoaridnJY0=
+			</data>
+		</dict>
+		<key>UpdateEmailVerificationStoryBoard.storyboardc/vpc-j2-Z2U-view-uAc-ye-WgU.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4vB3PZVUQ8ZMVtYAzSCa5QakqNyxG7ixxF931ouXy1U=
+			</data>
+		</dict>
+		<key>UpdateEmailVerificationStoryBoard.storyboardc/vpc-j2-Z2U-view-uAc-ye-WgU.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LCanw/nP9/UMEgrv/PsCNqOCMD+od+DjYDOT7aw5MYo=
 			</data>
 		</dict>
 		<key>UpdateFeatureStepsStoryBoard.storyboardc/Info.plist</key>
@@ -1269,7 +1531,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KxFmsU9XlHeUB4MCbgR9/EghO16MAedteKdmUt1slw0=
+			PMNc20kkgx6g4K4Ymvo8pT5Hy7npZzQDcL8WhzC06k0=
 			</data>
 		</dict>
 		<key>UpdateGeneralFeatureViewController.nib</key>
@@ -1279,11 +1541,102 @@
 			OULVJPdMSpyMIMWzpcycubYOHHDSzGtgdI7J7YonIrQ=
 			</data>
 		</dict>
+		<key>UpdateMobileVerificationStoryboard.storyboardc/Ao6-fe-Du1-view-Mzk-oR-DqM.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3ApbuuoBa9oPZt1cQXPhFr1wZ8bc6OBZJoW5JdXgyBM=
+			</data>
+		</dict>
+		<key>UpdateMobileVerificationStoryboard.storyboardc/Ao6-fe-Du1-view-Mzk-oR-DqM.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3ApbuuoBa9oPZt1cQXPhFr1wZ8bc6OBZJoW5JdXgyBM=
+			</data>
+		</dict>
+		<key>UpdateMobileVerificationStoryboard.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pj6KpxSStl00Mf8yzPnoov4EEbhT4sFvox+3yIg48as=
+			</data>
+		</dict>
+		<key>UpdateMobileVerificationStoryboard.storyboardc/S8S-KG-RZd-view-fwd-Un-95a.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			09fDhkzaBLa/gId720qWs+Mfr2td2tA4QC3Wf2OKxjg=
+			</data>
+		</dict>
+		<key>UpdateMobileVerificationStoryboard.storyboardc/S8S-KG-RZd-view-fwd-Un-95a.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+eLH1zTeD3xBR+njn8l8EdAIp6BMp3Rl38qzn6JQDRY=
+			</data>
+		</dict>
+		<key>UpdateMobileVerificationStoryboard.storyboardc/UpdateAddMobileNumberViewController.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LjbPMoaUijLVCPJRG52VfTSGBgGH3II3ey7Cw8DgK5Q=
+			</data>
+		</dict>
+		<key>UpdateMobileVerificationStoryboard.storyboardc/UpdateAddMobileNumberViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LjbPMoaUijLVCPJRG52VfTSGBgGH3II3ey7Cw8DgK5Q=
+			</data>
+		</dict>
+		<key>UpdateMobileVerificationStoryboard.storyboardc/UpdateManageMobileNumbersViewController.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PKFktzYGArLfKSd47RotX5Nf2IjHtzP7lnWGwCibPmk=
+			</data>
+		</dict>
+		<key>UpdateMobileVerificationStoryboard.storyboardc/UpdateManageMobileNumbersViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PKFktzYGArLfKSd47RotX5Nf2IjHtzP7lnWGwCibPmk=
+			</data>
+		</dict>
+		<key>UpdateMobileVerificationStoryboard.storyboardc/UpdateMobileOtpVerificationViewController.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NErJoHHUMlEsxU5VAgImqnVij28ohesbgS4YW0xV4ps=
+			</data>
+		</dict>
+		<key>UpdateMobileVerificationStoryboard.storyboardc/UpdateMobileOtpVerificationViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NErJoHHUMlEsxU5VAgImqnVij28ohesbgS4YW0xV4ps=
+			</data>
+		</dict>
+		<key>UpdateMobileVerificationStoryboard.storyboardc/WYt-xZ-HhW-view-Egg-WC-uex.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PH33H4ZsLybGZyC3EDjCyB2hWF94DPi+PHZOPX4jEoE=
+			</data>
+		</dict>
+		<key>UpdateMobileVerificationStoryboard.storyboardc/WYt-xZ-HhW-view-Egg-WC-uex.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PH33H4ZsLybGZyC3EDjCyB2hWF94DPi+PHZOPX4jEoE=
+			</data>
+		</dict>
 		<key>UpdateNationalIdStoryBoard.storyboardc/6kw-Kz-Ybv-view-iv2-qG-DDc.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UwBHhOd+4/iIstyBXijk7+Wloi9PA1886VNjcaX2K2w=
+			ws8+9UbAFqTJwJwvCXBqUPiIM5vj+awUgpQ9I+wz1Ts=
 			</data>
 		</dict>
 		<key>UpdateNationalIdStoryBoard.storyboardc/Info.plist</key>
@@ -1318,21 +1671,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7pRMIxx8RLo0YXloxSylWpjsLMHs5tV1jy2nQK+fliw=
+			XHxgXnflqfJNnjcfKsrQfvBgma1dOpFdKjbQ/GUiOCE=
 			</data>
 		</dict>
 		<key>UpdateNationalIdStoryBoard.storyboardc/aSE-lI-ygr-view-TL6-Yr-kuu.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Bx2kOPOygOCUzf6IMkLjne8FNmKfCg1lyw+zsAp/EjU=
+			yVtTw3yXYKskLhWB9NdpPi1Dr6iYWcr8OTnf/CoxvHA=
 			</data>
 		</dict>
 		<key>UpdatePassportStoryBoard.storyboardc/Cm9-be-Ow2-view-cnj-Iz-HGR.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jSQ+XuLBnFJOOnZrXOJzrO0iaB99XkPuwPWQLiOQG2E=
+			KvllV2j8OCBFsD41osusLJ7ph3IXtAmBqBvWM3z7wfQ=
 			</data>
 		</dict>
 		<key>UpdatePassportStoryBoard.storyboardc/Info.plist</key>
@@ -1360,14 +1713,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			woOkFCFEt5a3fkMTMYyeLD9zwGnOJS87oIT2bXnTGBc=
+			OuNsgLfEkKKOC5FTHu7EbJNFBELnXiDowBtJoIk6irg=
+			</data>
+		</dict>
+		<key>UpdatePasswordViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IC0RLArJ7z6x8jDnqB6rRznngeKHTU8x6Ks02ofb3Q4=
+			</data>
+		</dict>
+		<key>UpdateSecurityQuestionsViewController.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mmmW18hGDwsUnteX2xx2cFlp66FHyWCgLrtsBDGdSu4=
+			</data>
+		</dict>
+		<key>UpdateSecurityQuestionsViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jaaHn4dKxh8tqD7I5yJwlFZZDNF9Mxymemwux7qbr90=
 			</data>
 		</dict>
 		<key>UpdateStepTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dWaDvhsg/1Sfc0RtQnEaB92ZkoNW4OGKTKBpRFYjHrw=
+			F32WLYf9VxWrdn/gBxq16SplaQAjdkBMFzmw2d1B4q0=
 			</data>
 		</dict>
 		<key>UserDataItemView.nib/objects-14.0+.nib</key>
