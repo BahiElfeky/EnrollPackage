@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "dot-ios-sdk-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/innovatrics/dot-ios-sdk-spm",
+      "state" : {
+        "revision" : "e1a56ee6fcd5015ff2fae08fbfc14f23e2587784",
+        "version" : "7.5.1"
+      }
+    }
+  ],
+  "version" : 2
+}
