@@ -30,16 +30,10 @@ let package = Package(
             dependencies: [
                 "EnrollFramework",
                 // Include all products from dot-ios-sdk-spm
-                .product(name: "DotFaceLite", package: "dot-ios-sdk-spm"),
                 .product(name: "DotDocument", package: "dot-ios-sdk-spm"),
-                .product(name: "DotNfc", package: "dot-ios-sdk-spm"),
                 .product(name: "DotFaceVerification", package: "dot-ios-sdk-spm"),
-                .product(name: "DotFaceEyeGazeLiveness", package: "dot-ios-sdk-spm"),
                 .product(name: "DotFaceExpressionNeutral", package: "dot-ios-sdk-spm"),
-                .product(name: "DotFaceDetectionFast", package: "dot-ios-sdk-spm"),
-                .product(name: "DotFaceBackgroundUniformity", package: "dot-ios-sdk-spm"),
-                .product(name: "DotFaceDetectionBalanced", package: "dot-ios-sdk-spm"),
-                .product(name: "DotFacePassiveLiveness", package: "dot-ios-sdk-spm")
+                .product(name: "DotFaceDetectionFast", package: "dot-ios-sdk-spm")
             ],
             path: "Sources/EnrollPackage"
         ),
