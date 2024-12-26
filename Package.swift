@@ -10,7 +10,7 @@ let package = Package(
     ],
     products: [
         .library(
-            name: "EnrollPackage",
+            name: "EnrollFramework",
             targets: ["EnrollPackage"]
         )
     ],
