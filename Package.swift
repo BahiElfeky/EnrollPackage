@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "EnrollPackage",
+    name: "Enroll",
     platforms: [
         .iOS(.v13)
     ],
